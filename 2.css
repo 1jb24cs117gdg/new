@@ -1,24 +1,24 @@
 /* Set background color and font for the whole page */
 body {
-  background-color: #cc7e7e;
+  background-color: #ad9f1c;
   font-family: Arial, sans-serif;
 }
 
 /* Style the main heading */
 h1 {
-  color: #3a91a7;
+  color: #573c3c;
   text-align: center;
 }
 
 /* Style paragraphs */
 p {
-  color: #555;
+  color: #0c1d7a;
   font-size: 16px;
   line-height: 1.5;
 }
 
 /* Add a hover effect to links */
 a:hover {
-  color: #ff6600;
+  color: #229b22;
   text-decoration: underline;
 }
